@@ -43,8 +43,9 @@ requires:
   URI: 0
   XML::LibXML: 0
   XML::LibXML::XPathContext: 0
+  perl: 5.01
 resources:
   homepage: http://github.com/thrig/Task-BeLike-JMATES-WorkWorkWork
   license: http://dev.perl.org/licenses/
   repository: http://github.com/thrig/Task-BeLike-JMATES-WorkWorkWork
-version: 0.01
+version: 0.02
