@@ -4,9 +4,9 @@
       "Jeremy Mates <jmates@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.120921",
    "license" : [
-      "perl_5"
+      "unknown"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -48,6 +48,7 @@
             "Net::DNS" : "0",
             "Net::LDAP" : "0",
             "Net::Ping" : "0",
+            "NetAddr::IP" : "0",
             "Perl::Tidy" : "0",
             "Term::CallEditor" : "0",
             "Term::ReadKey" : "0",
@@ -71,5 +72,5 @@
          "url" : "http://github.com/thrig/Task-BeLike-JMATES-WorkWorkWork"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }

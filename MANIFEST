@@ -2,6 +2,7 @@ Changes
 MANIFEST
 Makefile.PL
 README
+SIGNATURE
 lib/Task/BeLike/JMATES/WorkWorkWork.pm
 t/Task-BeLike-JMATES-WorkWorkWork.t
 t/pod.t

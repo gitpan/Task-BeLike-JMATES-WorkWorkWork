@@ -1,0 +1,34 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.73.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 2acac9f0172898837c7558ffb07f3b2f2cd70743 Changes
+SHA1 471f0a625aa024c6df9b30eeb26ea7e71d7122f6 MANIFEST
+SHA1 8937b3efb6e6a97faf1eca0bbadd6da6e60b4aac Makefile.PL
+SHA1 703412ae3af8be553ff141c1439df268d7a4c646 README
+SHA1 aac86cbb6213322c080346dad4199344c687f8ef lib/Task/BeLike/JMATES/WorkWorkWork.pm
+SHA1 3ad1c24e99fa4dab8834bc8858f1a9d5268bdd35 t/Task-BeLike-JMATES-WorkWorkWork.t
+SHA1 3ef65383d82f059f56f43236663119c01974decb t/pod.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJTMye9AAoJEDTEVWqwTuCUr+oH/j6ttBumWtWKTAUretqvGoQd
+x5ErjlVcj6ryUaRwCCdMLwmgWTImMMwpIddTTeTyFEwZMplVLtojb/uy3VKVtbxy
+TBcFmjZHDdctiAOFP34mB5lAdlkazKx0kUCn8JT7BA4U4J4F8V90yH6tQYIYKoqy
+0oHLcw8BZOCdGBh5rMfVQ3ck4ezf1HKN6VtXh5OLmcRCTzvK4g8+U18NmtK8mKhv
+efF94lAFI2luYznhle2k1Wy2+RFOscAyV0Cx5LZjEkavLcHAmSPMkCSzIYSdpK3d
+i37JZTKKyr/6nFxFLQimJw8an+SDnW6BTwyjlP5TkMiz3Emji7jWQASidmbqXg0=
+=SWQI
+-----END PGP SIGNATURE-----

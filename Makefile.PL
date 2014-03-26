@@ -28,6 +28,7 @@ my %params = (
     'Net::DNS'              => 0,
     'Net::LDAP'             => 0,
     'Net::Ping'             => 0,
+    'NetAddr::IP'           => 0,
     'Perl::Tidy'            => 0,
     'Term::CallEditor'      => 0,
     'Term::ReadKey'         => 0,
